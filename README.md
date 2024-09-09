@@ -21,6 +21,31 @@
 
 ## 주요기능
 
+### 회원가입/로그인
+![제목 없음 2](https://github.com/user-attachments/assets/ec7aa6a5-6368-4273-abcf-4361ada7160c)
+
+
+
+### 자녀관리
+![제목 없음 3](https://github.com/user-attachments/assets/2ffaaaa0-edc5-4d24-aaa2-5813fe748769)
+
+
+### 목표설정 및 리워드
+![제목 없음 4](https://github.com/user-attachments/assets/50da527d-2d73-449c-b43e-c9ea96d0601d)
+
+
+### 추억적금
+![제목 없음 6](https://github.com/user-attachments/assets/7a6ed48d-da98-4b06-af34-875b03c06619)
+
+
+### 펀딩
+![제목 없음 5](https://github.com/user-attachments/assets/6de986e1-5293-47a4-a61f-25b60fa76765)
+
+
+
+
+
+
 
 ## 느낀점
 
