@@ -3,6 +3,8 @@
 
 <img src="https://github.com/user-attachments/assets/18cb5237-82e7-4a05-94ca-b0b59e9d7c1a" width="50%">
 
+<br>
+
 ## 목차
 
 1. [팀원소개](#1-팀원소개)
@@ -16,6 +18,7 @@
    - [펀딩](#펀딩)
 5. [느낀점](#5-느낀점)
 
+<br>
 
 ## 1. 팀원소개
 
@@ -27,12 +30,16 @@
 |원민혁|팀원|FE, 발표|목표설정, 리워드|
 |한소연|팀원|BE, DB|목표설정, 리워드, 펀딩|
 
+<br>
+
 ## 2. 개발환경
 - Front-end: HTML, React, Recoil, tailwind, Primereact
 - Back-end: JDK 21, SpringBoot 3.3.2, SpringSecurity 6.3.1 MySQL 8.3.0
 - Infra: Nginx, AWS EC2, AWS S3
 - 버전 및 이슈관리: Github, Github Issues
 - 협업 툴: Notion, MatterMost
+
+<br>
 
 ## 3. 기획배경
 
@@ -43,6 +50,7 @@ SOL-ing(쏠링)은 잘파세대의 성장 과정을 자연스럽게 연결하며
 
 이를 위해 각 생애 단계별 맞춤 서비스를 제공하여 장기적인 고객 관계를 구축하고자 합니다.
 
+<br>
 
 ## 4. 주요기능
 
@@ -88,18 +96,29 @@ SOL-ing(쏠링)은 잘파세대의 성장 과정을 자연스럽게 연결하며
 
 ![제목 없음 5](https://github.com/user-attachments/assets/6de986e1-5293-47a4-a61f-25b60fa76765)
 
+<br>
 
 ## 5. 느낀점
 
-최민주
+### 최민주
 
-김명화
+> 느낀점
 
-변찬현
+### 김명화
 
-원민혁
+> 느낀점
 
-한소연
+### 변찬현
+
+> 느낀점
+
+### 원민혁
+
+> 느낀점
+
+### 한소연
+
+> 느낀점
 
 
 
